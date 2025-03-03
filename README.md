@@ -26,36 +26,22 @@ Welcome to my GitHub! I'm a **Computer Programming and Analysis** graduate passi
 ---
 
 ## 📌 Featured Projects
-### 🛒 AI-Powered Inventory Management System
-A local desktop application inspired by my capstone project, focusing on grocery store inventory forecasting and optimization.
+### AI Integrated Inventory Management System
+A web application that helps store managers make informed decisions on future orders between deliveries by analyzing historical sales data.
 
-### 🎭 Ask TarotGPT
-An AI-powered tarot reading tool integrating NLP and fun insights.
+### Analyzing Yelp Reviews
+Employs natural language processing to predict star ratings for Yelp reviews. We analyzed review text and user feedback to forecast the star rating using provided dataset. 
 
-### 💡 Roommate Expense & Facility Manager
-A simple tool to help roommates manage shared expenses and facilities.
+### ABC Clinic Database
+Comprehensive solution developed to manage patient records, appointments, and staff schedules for a busy urban clinic. Our team created a robust database that streamlines data entry, retrieval, and management, enhancing the clinic's operational efficiency.
 
 Check out more on my repositories! 🚀
 
 ---
 
 ## 📫 Connect with Me
-- 📧 [Email](mailto:your-email@example.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 🌐 [Portfolio](https://your-portfolio.com) (if available)
+- 📧 [Email](mailto:valunchanut@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/val-simaroj)
+- 🌐 [Portfolio](https://valunchanut.github.io)
 
-Thanks for stopping by! 😊🚀
-
-**valunchanut/valunchanut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks for stopping by!
