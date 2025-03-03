@@ -40,9 +40,9 @@ Check out more on my repositories! 🚀
 
 ---
 
-## 🤝🏻 Let's connect
+## 📲 Let's connect
 - 📧 [Email](mailto:valunchanut@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/val-simaroj)
-- 🌐 [Portfolio](https://valunchanut.github.io)
+- 🖼️ [Portfolio](https://valunchanut.github.io)
 
 Thanks for stopping by!
